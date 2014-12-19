@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install virtualbox
+cask install xtrafinder
 
 ## rcmdnk/file
 tap rcmdnk/file
