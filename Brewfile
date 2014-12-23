@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install sequel-pro
 cask install virtualbox
 cask install xtrafinder
 
