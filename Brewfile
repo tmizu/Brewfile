@@ -4,10 +4,17 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install appcleaner
+cask install google-chrome
 cask install lyrics-master
+cask install onyx
 cask install sequel-pro
 cask install virtualbox
 cask install xtrafinder
+
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -31,7 +38,7 @@ install little-cms2 --universal
 install makedepend
 install mysql
 install node
-install openssl --universal --universal
+install openssl --universal
 install pkg-config
 install samba
 install sane-backends --universal
