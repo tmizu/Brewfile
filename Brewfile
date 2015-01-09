@@ -16,15 +16,15 @@ install brew-file
 # Other Homebrew packages
 install cabextract
 install fontconfig --universal
-install freetype --universal --universal
+install freetype --universal
 install gd --universal
 install jasper --universal
 install jpeg --universal
-install libgphoto2 --universal --universal
+install libgphoto2 --universal
 install libicns --universal
-install libpng --universal --universal
+install libpng --universal
 install libtiff --universal
-install libtool --universal --universal
+install libtool --universal
 install libusb --universal
 install libusb-compat --universal
 install little-cms2 --universal
