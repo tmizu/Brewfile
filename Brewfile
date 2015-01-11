@@ -5,11 +5,17 @@
 tap caskroom/cask
 install brew-cask
 cask install appcleaner
+cask install boxofsnoo-fairmount
+cask install coteditor
 cask install google-chrome
+cask install google-japanese-ime
+cask install handbrake
 cask install lyrics-master
 cask install onyx
 cask install sequel-pro
+cask install sophos-anti-virus-home-edition
 cask install virtualbox
+cask install vlc
 cask install xtrafinder
 
 ## caskroom/versions
@@ -27,6 +33,7 @@ install freetype --universal
 install gd --universal
 install jasper --universal
 install jpeg --universal
+install libdvdcss
 install libgphoto2 --universal
 install libicns --universal
 install libpng --universal
