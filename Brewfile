@@ -6,11 +6,15 @@ tap caskroom/cask
 install brew-cask
 cask install appcleaner
 cask install boxofsnoo-fairmount
+cask install cooviewer
 cask install coteditor
+cask install github
 cask install google-chrome
 cask install google-japanese-ime
 cask install handbrake
+cask install libreoffice
 cask install lyrics-master
+cask install makemkv
 cask install onyx
 cask install sequel-pro
 cask install sophos-anti-virus-home-edition
