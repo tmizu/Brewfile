@@ -5,6 +5,7 @@
 tap caskroom/cask
 install brew-cask
 cask install appcleaner
+cask install bathyscaphe
 cask install boxofsnoo-fairmount
 cask install cooviewer
 cask install coteditor
@@ -18,6 +19,8 @@ cask install makemkv
 cask install onyx
 cask install sequel-pro
 cask install sophos-anti-virus-home-edition
+cask install utorrent
+cask install vagrant
 cask install virtualbox
 cask install vlc
 cask install xtrafinder
@@ -25,6 +28,7 @@ cask install xtrafinder
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install thunderbird-ja
 
 ## rcmdnk/file
 tap rcmdnk/file
