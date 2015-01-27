@@ -7,12 +7,14 @@ install brew-cask
 cask install appcleaner
 cask install bathyscaphe
 cask install boxofsnoo-fairmount
+cask install burn
 cask install cooviewer
 cask install coteditor
 cask install github
 cask install google-chrome
 cask install google-japanese-ime
 cask install handbrake
+cask install java
 cask install libreoffice
 cask install lyrics-master
 cask install makemkv
