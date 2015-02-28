@@ -5,11 +5,13 @@
 tap caskroom/cask
 install brew-cask
 cask install appcleaner
+cask install atom
 cask install bathyscaphe
 cask install boxofsnoo-fairmount
 cask install burn
 cask install cooviewer
 cask install coteditor
+cask install gimp
 cask install github
 cask install google-chrome
 cask install google-japanese-ime
